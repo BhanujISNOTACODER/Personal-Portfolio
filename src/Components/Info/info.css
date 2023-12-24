@@ -1,0 +1,11 @@
+#about-text{
+    color: white;
+    padding: 100px;
+}
+.details{
+    display: flex;
+    padding: 30px;
+}
+.profile-pic{
+    border-radius: 50%;
+}
